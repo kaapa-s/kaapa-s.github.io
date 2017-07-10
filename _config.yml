@@ -1,0 +1,22 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Kacper Sokołowski
+email: hello@kaapa.pl
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://kaapa.pl" # the base hostname & protocol for your site
+twitter: https://twitter.com/kaapa_s
+facebook:  https://www.facebook.com/kacperSokolowski
+github: https://github.com/kaapa-s
+linkedin: https://www.linkedin.com/in/kacper-soko%C5%82owski-13056466/
+collections:
+- conferences
+
+
+# Build settings
+markdown: kramdown

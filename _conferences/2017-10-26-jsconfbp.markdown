@@ -1,0 +1,5 @@
+---
+title: "JSConf Budapest"
+date: 2017-10-26 09:49:45 +0200
+website: http://jsconfbp.com/
+---
