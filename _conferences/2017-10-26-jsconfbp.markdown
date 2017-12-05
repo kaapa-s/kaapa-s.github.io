@@ -2,5 +2,5 @@
 title: "JSConf Budapest"
 date: 2017-10-26 09:00:00 +0200
 website: http://jsconfbp.com/
-video: https://www.youtube.com/watch?v=IE9_sUgeTkU&t=764s
+video: https://www.youtube.com/watch?v=IE9_sUgeTkU
 ---
